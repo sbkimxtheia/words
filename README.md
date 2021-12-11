@@ -7,4 +7,5 @@ Celestial
 Theia
 Hue
 Offset
+Haze
 ```
