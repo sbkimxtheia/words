@@ -8,4 +8,7 @@ Theia
 Hue
 Offset
 Haze
+미려 Miryeo
+수려 Suryeo
+미연? 연미?
 ```
